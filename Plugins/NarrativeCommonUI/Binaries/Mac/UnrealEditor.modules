@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"NarrativeCommonUI": "UnrealEditor-NarrativeCommonUI.dylib",
+		"NarrativeCommonUIEditor": "UnrealEditor-NarrativeCommonUIEditor.dylib"
+	}
+}
